@@ -1,0 +1,17 @@
+// M A I N   S T Y L E S
+$white: rgba(255, 255, 255, 1);			//white
+$black: rgba(0, 0, 0, 1);				//black
+$purplish: rgba(207, 0, 175, 1);		//mediumvioletred
+$grey: #808184;
+
+
+
+// N A V   S T Y L E S
+$nav-background: rgba(0, 0, 0, 0.95);	//black 95% opacity
+
+
+
+
+// F O O T E R   S T Y L E S
+$footer-text: transparentize($white, 0.7);
+$footer-text-a: transparentize($white, 0.2);
